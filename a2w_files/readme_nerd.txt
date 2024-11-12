@@ -1,0 +1,1 @@
+This is a repository folder where i will be storing the version info and latest installer.
